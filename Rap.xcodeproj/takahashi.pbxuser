@@ -1,0 +1,298 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* RapAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1144}}";
+			sepNavSelRange = "{631, 0}";
+			sepNavVisRange = "{1859, 816}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Rap */ = {
+		activeExec = 0;
+		executables = (
+			FFDE19EE11ACFD010097A00A /* Rap */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 397}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 1183}}";
+			sepNavSelRange = "{1259, 0}";
+			sepNavVisRange = "{1010, 398}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFDE19EE11ACFD010097A00A /* Rap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Rap */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Rap */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FFDE1A0011ACFD130097A00A /* Code sense */;
+		executables = (
+			FFDE19EE11ACFD010097A00A /* Rap */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					654,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296621787;
+			PBXWorkspaceStateSaveDate = 296621787;
+		};
+		perUserProjectItems = {
+			FFDE1AC111AD2ABE0097A00A = FFDE1AC111AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AC211AD2ABE0097A00A = FFDE1AC211AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AC311AD2ABE0097A00A = FFDE1AC311AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AC511AD2ABE0097A00A = FFDE1AC511AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AC611AD2ABE0097A00A = FFDE1AC611AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AC711AD2ABE0097A00A = FFDE1AC711AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AC811AD2ABE0097A00A = FFDE1AC811AD2ABE0097A00A /* PBXTextBookmark */;
+			FFDE1AF011AD2B5D0097A00A = FFDE1AF011AD2B5D0097A00A /* PBXTextBookmark */;
+			FFDE1AF111AD2B5D0097A00A = FFDE1AF111AD2B5D0097A00A /* PBXTextBookmark */;
+			FFDE1AF711AD2BA60097A00A = FFDE1AF711AD2BA60097A00A /* PBXTextBookmark */;
+		};
+		sourceControlManager = FFDE19FF11ACFD130097A00A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FFDE19EE11ACFD010097A00A /* Rap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Rap;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FFDE19FF11ACFD130097A00A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFDE1A0011ACFD130097A00A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FFDE1A1611ACFFE90097A00A /* RapListTableController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 374}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	FFDE1A1711ACFFE90097A00A /* RapListTableController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 374}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 233}";
+		};
+	};
+	FFDE1A1911ACFFFE0097A00A /* LocatorController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 374}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 360}";
+		};
+	};
+	FFDE1A1A11ACFFFE0097A00A /* LocatorController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 403}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{3, 370}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	FFDE1A5011AD0AA50097A00A /* Timer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 397}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{0, 297}";
+		};
+	};
+	FFDE1A5111AD0AA50097A00A /* Timer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 390}}";
+			sepNavSelRange = "{278, 0}";
+			sepNavVisRange = "{0, 290}";
+		};
+	};
+	FFDE1AC111AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A5111AD0AA50097A00A /* Timer.m */;
+		name = "Timer.m: 26";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 0;
+	};
+	FFDE1AC211AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A1611ACFFE90097A00A /* RapListTableController.h */;
+		name = "RapListTableController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	FFDE1AC311AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A5011AD0AA50097A00A /* Timer.h */;
+		name = "Timer.h: 15";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 297;
+		vrLoc = 0;
+	};
+	FFDE1AC511AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A1A11ACFFFE0097A00A /* LocatorController.m */;
+		name = "LocatorController.m: 15";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 3;
+	};
+	FFDE1AC611AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A1911ACFFFE0097A00A /* LocatorController.h */;
+		name = "LocatorController.h: 12";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	FFDE1AC711AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A1711ACFFE90097A00A /* RapListTableController.m */;
+		name = "RapListTableController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	FFDE1AC811AD2ABE0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RapViewController.h */;
+		name = "RapViewController.h: 13";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	FFDE1AF011AD2B5D0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RapAppDelegate.m */;
+		name = "RapAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 631;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 1859;
+	};
+	FFDE1AF111AD2B5D0097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RapViewController.m */;
+		name = "RapViewController.m: 52";
+		rLen = 0;
+		rLoc = 1212;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 704;
+	};
+	FFDE1AF711AD2BA60097A00A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RapViewController.m */;
+		name = "RapViewController.m: 52";
+		rLen = 0;
+		rLoc = 1192;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 733;
+	};
+}

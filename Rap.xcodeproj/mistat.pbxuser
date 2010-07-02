@@ -1,0 +1,414 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RapAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 414}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 460}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Rap */ = {
+		activeExec = 0;
+		executables = (
+			EA12E76311D109EA00CAA434 /* Rap */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{402, 804}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 2847}}";
+			sepNavSelRange = "{1070, 0}";
+			sepNavVisRange = "{799, 879}";
+			sepNavWindowFrame = "{{15, 8}, {828, 765}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = EA12E76311D109EA00CAA434 /* Rap */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Rap */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Rap */,
+		);
+		breakpoints = (
+			EA12E83011D11FBC00CAA434 /* RapTimer.m:47 */,
+		);
+		codeSenseManager = EA12E77311D109ED00CAA434 /* Code sense */;
+		executables = (
+			EA12E76311D109EA00CAA434 /* Rap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					404,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					516,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					530,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					456,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					492,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					476,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299299225;
+			PBXWorkspaceStateSaveDate = 299299225;
+		};
+		perUserProjectItems = {
+			EA0E6C5E11D6131A00718321 /* PBXTextBookmark */ = EA0E6C5E11D6131A00718321 /* PBXTextBookmark */;
+			EA0E6C5F11D6131A00718321 /* PBXTextBookmark */ = EA0E6C5F11D6131A00718321 /* PBXTextBookmark */;
+			EA0E6C6011D6131A00718321 /* PBXTextBookmark */ = EA0E6C6011D6131A00718321 /* PBXTextBookmark */;
+			EA0E6C6111D6131A00718321 /* PBXTextBookmark */ = EA0E6C6111D6131A00718321 /* PBXTextBookmark */;
+			EA12E80311D11AEA00CAA434 /* PBXTextBookmark */ = EA12E80311D11AEA00CAA434 /* PBXTextBookmark */;
+			EA12E83311D11FBE00CAA434 /* PBXTextBookmark */ = EA12E83311D11FBE00CAA434 /* PBXTextBookmark */;
+			EA210B0D11D62C5B006430DE /* PBXTextBookmark */ = EA210B0D11D62C5B006430DE /* PBXTextBookmark */;
+			EA210B0E11D62C5B006430DE /* PBXBookmark */ = EA210B0E11D62C5B006430DE /* PBXBookmark */;
+			EA56F12611D6F1740085B634 /* PBXTextBookmark */ = EA56F12611D6F1740085B634 /* PBXTextBookmark */;
+			EA56F12711D6F1740085B634 /* PlistBookmark */ = EA56F12711D6F1740085B634 /* PlistBookmark */;
+			EA56F12811D6F1740085B634 /* PlistBookmark */ = EA56F12811D6F1740085B634 /* PlistBookmark */;
+			EA56F12911D6F1740085B634 /* PBXBookmark */ = EA56F12911D6F1740085B634 /* PBXBookmark */;
+			EA56F15311D6F45C0085B634 /* PBXBookmark */ = EA56F15311D6F45C0085B634 /* PBXBookmark */;
+			EA56F19111D7885D0085B634 /* PlistBookmark */ = EA56F19111D7885D0085B634 /* PlistBookmark */;
+		};
+		sourceControlManager = EA12E77211D109ED00CAA434 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4FEAF16311D450EF0006468D /* InfoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 359}}";
+			sepNavSelRange = "{516, 27}";
+			sepNavVisRange = "{0, 549}";
+		};
+	};
+	4FEAF16411D450EF0006468D /* InfoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 364}}";
+			sepNavSelRange = "{362, 0}";
+			sepNavVisRange = "{0, 392}";
+		};
+	};
+	EA0E6C5E11D6131A00718321 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A5111AD0AA50097A00A /* RapTimer.m */;
+		name = "RapTimer.m: 29";
+		rLen = 0;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 221;
+	};
+	EA0E6C5F11D6131A00718321 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FEAF16311D450EF0006468D /* InfoViewController.h */;
+		name = "InfoViewController.h: 24";
+		rLen = 27;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 0;
+	};
+	EA0E6C6011D6131A00718321 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FEAF16411D450EF0006468D /* InfoViewController.m */;
+		name = "InfoViewController.m: 21";
+		rLen = 0;
+		rLoc = 362;
+		rType = 0;
+		vrLen = 392;
+		vrLoc = 0;
+	};
+	EA0E6C6111D6131A00718321 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RapViewController.h */;
+		name = "RapViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 402;
+	};
+	EA12E76311D109EA00CAA434 /* Rap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Rap;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EA12E77211D109ED00CAA434 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EA12E77311D109ED00CAA434 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EA12E80311D11AEA00CAA434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RapAppDelegate.h */;
+		name = "RapAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 0;
+	};
+	EA12E83011D11FBC00CAA434 /* RapTimer.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FFDE1A5111AD0AA50097A00A /* RapTimer.m */;
+		functionName = "-doLap";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = Rap;
+		modificationTime = 298917820.987276;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	EA12E83311D11FBE00CAA434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFDE1A5011AD0AA50097A00A /* RapTimer.h */;
+		name = "RapTimer.h: 42";
+		rLen = 0;
+		rLoc = 652;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 360;
+	};
+	EA210AFD11D6299B006430DE /* icon-72x72.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 8}, {828, 765}}";
+		};
+	};
+	EA210B0D11D62C5B006430DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RapViewController.m */;
+		name = "RapViewController.m: 45";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 799;
+	};
+	EA210B0E11D62C5B006430DE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA2CD61E11D5C41C003F8B9C /* VerticalLap.png */;
+	};
+	EA56F0F711D6EC1C0085B634 /* stdarg.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdarg.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/stdarg.h;
+		sourceTree = "<absolute>";
+	};
+	EA56F12611D6F1740085B634 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA56F0F711D6EC1C0085B634 /* stdarg.h */;
+		name = "stdarg.h: 4";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	EA56F12711D6F1740085B634 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = EACD1C7F11D62E02002E4529 /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/mistat/Dropbox/iphone/Rap/Entitlements.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EA56F12811D6F1740085B634 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Rap-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/mistat/Dropbox/iphone/Rap/Rap-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EA56F12911D6F1740085B634 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA56F11811D6F0BF0085B634 /* icon-57x57.png */;
+	};
+	EA56F15311D6F45C0085B634 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EA210AFD11D6299B006430DE /* icon-72x72.png */;
+	};
+	EA56F19111D7885D0085B634 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Rap-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/mistat/Dropbox/iphone/Rap/Rap-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EACD1C7F11D62E02002E4529 /* Entitlements.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{452, 4}, {828, 765}}";
+		};
+	};
+	FFDE1A5011AD0AA50097A00A /* RapTimer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 744}}";
+			sepNavSelRange = "{652, 0}";
+			sepNavVisRange = "{360, 384}";
+		};
+	};
+	FFDE1A5111AD0AA50097A00A /* RapTimer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 1313}}";
+			sepNavSelRange = "{515, 0}";
+			sepNavVisRange = "{221, 523}";
+		};
+	};
+}

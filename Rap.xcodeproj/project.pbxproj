@@ -1,0 +1,378 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* RapAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* RapAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		2899E5220DE3E06400AC0155 /* RapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* RapViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* RapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* RapViewController.m */; };
+		4FEAF10711D4458F0006468D /* 7barSPBd.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4FEAF10611D4458F0006468D /* 7barSPBd.otf */; };
+		4FEAF15B11D44E9F0006468D /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4FEAF15A11D44E9F0006468D /* InfoViewController.xib */; };
+		4FEAF16511D450EF0006468D /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FEAF16411D450EF0006468D /* InfoViewController.m */; };
+		4FF3479711D3603E00963901 /* Lap.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FF3479611D3603E00963901 /* Lap.m */; };
+		4FF34B4B11D43AFB00963901 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FF34B4A11D43AFB00963901 /* Foundation.framework */; };
+		4FF34C5711D43C3E00963901 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FF34C5611D43C3E00963901 /* CoreGraphics.framework */; };
+		4FF34CC411D43C8B00963901 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FF34CC311D43C8B00963901 /* UIKit.framework */; };
+		EA210AFE11D6299B006430DE /* icon-72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = EA210AFD11D6299B006430DE /* icon-72x72.png */; };
+		EA210B0611D62AA5006430DE /* 512icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EA210B0511D62AA5006430DE /* 512icon.png */; };
+		EA2CD61F11D5C41C003F8B9C /* mistatLog.png in Resources */ = {isa = PBXBuildFile; fileRef = EA2CD61C11D5C41C003F8B9C /* mistatLog.png */; };
+		EA2CD62011D5C41C003F8B9C /* Roundedlap.png in Resources */ = {isa = PBXBuildFile; fileRef = EA2CD61D11D5C41C003F8B9C /* Roundedlap.png */; };
+		EA2CD62111D5C41C003F8B9C /* VerticalLap.png in Resources */ = {isa = PBXBuildFile; fileRef = EA2CD61E11D5C41C003F8B9C /* VerticalLap.png */; };
+		EA56F11911D6F0BF0085B634 /* icon-57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = EA56F11811D6F0BF0085B634 /* icon-57x57.png */; };
+		EA56F17211D703710085B634 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EA56F17111D703710085B634 /* icon.png */; };
+		FFDE1A5211AD0AA50097A00A /* RapTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = FFDE1A5111AD0AA50097A00A /* RapTimer.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D3623240D0F684500981E51 /* RapAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RapAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* RapAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RapAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Rap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rap.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2899E5210DE3E06400AC0155 /* RapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RapViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* RapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RapViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* RapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RapViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Rap_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rap_Prefix.pch; sourceTree = "<group>"; };
+		4FEAF10611D4458F0006468D /* 7barSPBd.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 7barSPBd.otf; sourceTree = "<group>"; };
+		4FEAF15A11D44E9F0006468D /* InfoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoViewController.xib; sourceTree = "<group>"; };
+		4FEAF16311D450EF0006468D /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		4FEAF16411D450EF0006468D /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+		4FF3479511D3603E00963901 /* Lap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lap.h; sourceTree = "<group>"; };
+		4FF3479611D3603E00963901 /* Lap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Lap.m; sourceTree = "<group>"; };
+		4FF34B4A11D43AFB00963901 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4FF34C5611D43C3E00963901 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4FF34CC311D43C8B00963901 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8D1107310486CEB800E47090 /* Rap-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rap-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		EA210AFD11D6299B006430DE /* icon-72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72x72.png"; sourceTree = "<group>"; };
+		EA210B0511D62AA5006430DE /* 512icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 512icon.png; path = images/512icon.png; sourceTree = "<group>"; };
+		EA2CD61C11D5C41C003F8B9C /* mistatLog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mistatLog.png; path = images/mistatLog.png; sourceTree = "<group>"; };
+		EA2CD61D11D5C41C003F8B9C /* Roundedlap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Roundedlap.png; path = images/Roundedlap.png; sourceTree = "<group>"; };
+		EA2CD61E11D5C41C003F8B9C /* VerticalLap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = VerticalLap.png; path = images/VerticalLap.png; sourceTree = "<group>"; };
+		EA56F11811D6F0BF0085B634 /* icon-57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-57x57.png"; sourceTree = "<group>"; };
+		EA56F17111D703710085B634 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		EACD1C7F11D62E02002E4529 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		FFDE1A5011AD0AA50097A00A /* RapTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RapTimer.h; sourceTree = "<group>"; };
+		FFDE1A5111AD0AA50097A00A /* RapTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RapTimer.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4FF34B4B11D43AFB00963901 /* Foundation.framework in Frameworks */,
+				4FF34C5711D43C3E00963901 /* CoreGraphics.framework in Frameworks */,
+				4FF34CC411D43C8B00963901 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4FEAF21B11D4600E0006468D /* models */,
+				4FEAF21A11D45FF80006468D /* controller */,
+				1D3623240D0F684500981E51 /* RapAppDelegate.h */,
+				1D3623250D0F684500981E51 /* RapAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Rap.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				EACD1C7F11D62E02002E4529 /* Entitlements.plist */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Rap_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EA56F17111D703710085B634 /* icon.png */,
+				EA56F11811D6F0BF0085B634 /* icon-57x57.png */,
+				EA210AFD11D6299B006430DE /* icon-72x72.png */,
+				EA2CD60E11D5C3BF003F8B9C /* images */,
+				4FEAF15A11D44E9F0006468D /* InfoViewController.xib */,
+				4FEAF10611D4458F0006468D /* 7barSPBd.otf */,
+				2899E5210DE3E06400AC0155 /* RapViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Rap-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4FF34B4A11D43AFB00963901 /* Foundation.framework */,
+				4FF34C5611D43C3E00963901 /* CoreGraphics.framework */,
+				4FF34CC311D43C8B00963901 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4FEAF21A11D45FF80006468D /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				28D7ACF60DDB3853001CB0EB /* RapViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* RapViewController.m */,
+				4FEAF16311D450EF0006468D /* InfoViewController.h */,
+				4FEAF16411D450EF0006468D /* InfoViewController.m */,
+			);
+			name = controller;
+			sourceTree = "<group>";
+		};
+		4FEAF21B11D4600E0006468D /* models */ = {
+			isa = PBXGroup;
+			children = (
+				FFDE1A5011AD0AA50097A00A /* RapTimer.h */,
+				FFDE1A5111AD0AA50097A00A /* RapTimer.m */,
+				4FF3479511D3603E00963901 /* Lap.h */,
+				4FF3479611D3603E00963901 /* Lap.m */,
+			);
+			name = models;
+			sourceTree = "<group>";
+		};
+		EA2CD60E11D5C3BF003F8B9C /* images */ = {
+			isa = PBXGroup;
+			children = (
+				EA210B0511D62AA5006430DE /* 512icon.png */,
+				EA2CD61C11D5C41C003F8B9C /* mistatLog.png */,
+				EA2CD61D11D5C41C003F8B9C /* Roundedlap.png */,
+				EA2CD61E11D5C41C003F8B9C /* VerticalLap.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Rap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Rap" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Rap;
+			productName = Rap;
+			productReference = 1D6058910D05DD3D006BFB54 /* Rap.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Misato Takahashi";
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Rap" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Rap */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* RapViewController.xib in Resources */,
+				4FEAF10711D4458F0006468D /* 7barSPBd.otf in Resources */,
+				4FEAF15B11D44E9F0006468D /* InfoViewController.xib in Resources */,
+				EA2CD61F11D5C41C003F8B9C /* mistatLog.png in Resources */,
+				EA2CD62011D5C41C003F8B9C /* Roundedlap.png in Resources */,
+				EA2CD62111D5C41C003F8B9C /* VerticalLap.png in Resources */,
+				EA210AFE11D6299B006430DE /* icon-72x72.png in Resources */,
+				EA210B0611D62AA5006430DE /* 512icon.png in Resources */,
+				EA56F11911D6F0BF0085B634 /* icon-57x57.png in Resources */,
+				EA56F17211D703710085B634 /* icon.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* RapAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* RapViewController.m in Sources */,
+				FFDE1A5211AD0AA50097A00A /* RapTimer.m in Sources */,
+				4FF3479711D3603E00963901 /* Lap.m in Sources */,
+				4FEAF16511D450EF0006468D /* InfoViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Dropbox/iphone/Rap/Entitlements.plist";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Rap_Prefix.pch;
+				INFOPLIST_FILE = "Rap-Info.plist";
+				PRODUCT_NAME = Rap;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Dropbox/iphone/Rap/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Rap_Prefix.pch;
+				INFOPLIST_FILE = "Rap-Info.plist";
+				PRODUCT_NAME = Rap;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Misato Takahashi (HN9P8566DK)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1A5B7619-FE45-4EB4-AA81-B1A920D856EC";
+				SDKROOT = iphoneos4.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Misato Takahashi (HN9P8566DK)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C40D2AF5-EA9E-422C-99CD-9864EB319994";
+				SDKROOT = iphoneos4.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		EACD1C7311D62D56002E4529 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Misato Takahashi";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "70B335C4-C3F8-4C76-BEDA-30E4AF8E961A";
+				SDKROOT = iphoneos4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		EACD1C7411D62D56002E4529 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Dropbox/iphone/Rap/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Rap_Prefix.pch;
+				INFOPLIST_FILE = "Rap-Info.plist";
+				PRODUCT_NAME = Rap;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Rap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				EACD1C7411D62D56002E4529 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Rap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				EACD1C7311D62D56002E4529 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
